@@ -1,3 +1,4 @@
 1.txt filter=lfs diff=lfs merge=lfs -text
 BIGFILE.txt filter=lfs diff=lfs merge=lfs -text
 22.txt filter=lfs diff=lfs merge=lfs -text
+BIGGFILE.txt filter=lfs diff=lfs merge=lfs -text
