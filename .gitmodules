@@ -1,3 +1,6 @@
 [submodule "LABWORK2SUV"]
 	path = LABWORK2SUV
 	url = https://github.com/COSMOGLIST/LABWORK2SUV
+[submodule "labwork3suv"]
+	path = labwork3suv
+	url = https://gitlab.com/COSMOGLIST/labwork3suv
